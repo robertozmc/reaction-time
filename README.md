@@ -28,7 +28,8 @@ After 10 signals results are displayed with reaction times.
 
 ## Disadvantages
 
-Almost all code is written in Polish language which is very bad practice. Take a note that this project was developed only for studies purposes at initial semesters. 
+
+Almost all code is written without any knowledge about programming and in Polish language which is very bad practice. Take a note that this project was developed only for studies purposes at initial semesters.
 
 [language-url]: https://img.shields.io/badge/language-Java-lightgrey.svg?style=flat "Language"
 [license-url]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat "License"
